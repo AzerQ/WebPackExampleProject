@@ -1,0 +1,30 @@
+{
+  "name": "webpackexampleproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzerQ/WebPackExampleProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AzerQ/WebPackExampleProject/issues"
+  },
+  "homepage": "https://github.com/AzerQ/WebPackExampleProject#readme",
+  "dependencies": {
+    "@mswjs/interceptors": "^0.41.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.5.4",
+    "typescript": "^6.0.2",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
+  }
+}
